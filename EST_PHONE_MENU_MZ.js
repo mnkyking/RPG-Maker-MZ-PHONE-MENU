@@ -806,9 +806,9 @@ Scene_Phone.prototype.update = function(){
 	if (this._phoneCommand && this._phoneCommand._phoneNeedRedraw) {
 	  this.redrawPhone();
 	};
-	if(Imported && Imported["LvMZAnimatedFaces"]){//compatibility patch with LvMZAnimatedFace
-	  if ($gameMessage.hasText() && $gameMessage.animatedFace()) this._messageWindow.updateFaceAnimation();
-	};
+	//if(Imported && Imported["LvMZAnimatedFaces"]){//compatibility patch with LvMZAnimatedFace
+	//  if ($gameMessage.hasText() && $gameMessage.animatedFace()) this._messageWindow.updateFaceAnimation();
+	//};
 };
 
 Scene_Phone.prototype.redrawPhone = function(){ //redraw phone

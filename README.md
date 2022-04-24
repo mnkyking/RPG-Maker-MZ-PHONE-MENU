@@ -41,14 +41,13 @@ Coming Soon...
 
 ## How To
 ■ How to use ╒══════════════════════════╛
-1. Install EST_PHONE_MENU_MZ.js (required)
-https://forums.rpgmakerweb.com/index.php?threads/est-phone-menu-mz.129119/
-2. Install this plugin BELOW it
-3. open the EST_PHONE_MENU_MZ plugin parameter and search
-for Phone Command Settings parameter.
-add your menu command there.
-
-this is what you should put on the 'Script' parameter
-for that menu command.
+1. Create new or open existing RPG Maker MZ Project (example Phone Menu Game)
+2. Download EST_PHONE_MENU_MZ.js and Cellphone folder
+3. Copy EST_PHONE_MENU_MZ.js
+4. Navigate to Phone Menu Game > js > plugins and paste here
+5. In RPG Maker Open Plugin Manager Menu and enable EST_PHONE_MENU_MZ
+6. Copy Cellphone folder
+7. Navigate to Phone Menu Game > img > system and paste here
+7a. The plugin currently expects the folder path for cellphone folder to be here in /system
 
 ## FAQ
