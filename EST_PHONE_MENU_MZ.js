@@ -1,9 +1,4 @@
 /*:
-// Original Thread Post
-// https://forums.rpgmakerweb.com/index.php?threads/est-phone-menu-mz.129119/
-// Original Version Download
-// https://www.dropbox.com/s/4gv3tq6fxusgf4k/EST_PHONE_MENU_MZ.js?dl=0
-
 @plugindesc Phone Menu Plugin
 <EST PHONE MENU MZ>
 @author Estriole, Mnkyking
